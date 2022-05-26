@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="content_image_item_weather">Image Item Weather</string>
+
+</resources>
